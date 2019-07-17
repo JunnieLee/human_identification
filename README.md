@@ -33,7 +33,7 @@ So, we’ll discuss a more useful yet fast color descriptor that is capable of e
 
 * Papers to refer to :
 
-1)
+1) Basics
 ( Image Similarity Measure using Color Histogram, Color Coherence Vector, and Sobel Method : https://pdfs.semanticscholar.org/b539/791e55d550b493701c82f76c4867b3b88a3a.pdf )
 
 
@@ -57,8 +57,15 @@ color information. Details Method to extract color coherence
 vector is described in the section-Proposed method. 
 
 
+***
+2) Improvemed versions that we can apply
+(Improving the Effectiveness of the
+Color Coherence Vector : https://pdfs.semanticscholar.org/cdee/f98c2ec697eb9e098bd44374dea7aeb4eb1f.pdf )
 
-2)
+   - (1) compare the number of coherence regions of the same color between two images
+   - (2) compare the location of coherence regions of the same color between two images
+   
+   
 
 3)
 
